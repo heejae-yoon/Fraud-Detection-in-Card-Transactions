@@ -1,4 +1,4 @@
-# Fraud Detection in Credit Card Trasactions
+# Fraud-Detection-in-Card-Transactions
 
 ## Introduction
 
